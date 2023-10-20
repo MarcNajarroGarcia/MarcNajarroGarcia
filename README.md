@@ -7,7 +7,7 @@ Soy un apasionado del desarrollo web con experiencia en JavaScript, Java y otras
 - 👨‍💻 Desarrollador web apasionado
 - 🌐 Especializado en JavaScript y Java
 - 📚 Siempre aprendiendo y explorando nuevas tecnologías
-- 🚀 Creando aplicaciones web increíbles
+- 🚀 Creando páginas y aplicaciones web increíbles
 
 ## Tecnologías
 
