@@ -22,9 +22,6 @@ Aquí tienes una lista de algunas de las tecnologías con las que trabajo:
 
 - LinkedIn: [Marc Najarro](linkedin.com/in/marc-najarro-2a8468222)
 - Correo electrónico: mnajarrogarcia@gmail.com
-- Sitio web: [TuSitioWeb.com](enlace-a-tu-sitio-web)
-
-¡No dudes en contactarme si quieres colaborar en proyectos interesantes o simplemente charlar sobre desarrollo web! 😊
 
 ## Estadísticas de GitHub
 
