@@ -6,8 +6,10 @@ Soy un apasionado del desarrollo web con experiencia en JavaScript, Java y otras
 
 - 👨‍💻 Desarrollador web apasionado
 - 🌐 Especializado en JavaScript, React, Next.js y Java
-- 📚 Siempre aprendiendo y explorando nuevas tecnologías
+- ☁️ Conocimientos en servicios de AWS como S3 y EC2, y aprendiendo sobre Lambda para el despliegue y gestión eficiente de aplicaciones web
 - 🚀 Creando páginas y aplicaciones web increíbles
+- 📚 Siempre aprendiendo y explorando nuevas tecnologías
+
 
 ## Tecnologías
 
