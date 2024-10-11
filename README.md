@@ -20,8 +20,8 @@ Soy un apasionado del desarrollo web con experiencia en JavaScript, Java y otras
 - **Link**: [s2moblesoficina.com](https://s2moblesoficina.com/)
 - **Referencia**: +34 618 62 11 63
 
-### 2. Página Web de Arquitectura de Interior de Oficinas (AIO)
-- **Descripción**: Desarrollo de la página web de Arquitectura de Interior de Oficinas (AIO). Esta página está siendo desarrollada con tecnologías modernas como React, Next.js y JavaScript, y será publicada utilizando AWS para asegurar un despliegue eficiente y escalable.
+### 2. Página Web de Arquitectura Interior de Oficinas (AIO)
+- **Descripción**: Desarrollo de la página web de Arquitectura Interior de Oficinas (AIO). Esta página está siendo desarrollada con tecnologías modernas como React, Next.js y JavaScript, y será publicada utilizando AWS para asegurar un despliegue eficiente y escalable.
 - **Tecnologías utilizadas**: React, Next.js, JavaScript, AWS
 - **Estado**: Pendiente de publicación
 - **Referencia**: +34 677 74 43 52
