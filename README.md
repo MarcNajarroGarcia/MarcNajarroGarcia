@@ -11,14 +11,14 @@ Soy un apasionado del desarrollo web con experiencia en JavaScript, Java y otras
 - 📚 Siempre aprendiendo y explorando nuevas tecnologías
 
 
-### Proyectos Realizados
+## Proyectos Realizados
 
-#### 1. Página Web de SOM2 Mobles Oficina
+### 1. Página Web de SOM2 Mobles Oficina
 - **Descripción**: Desarrollo de la página web corporativa de SOM2, una empresa especializada en soluciones de mobiliario para oficina. Utilicé WordPress para crear un sitio web intuitivo y profesional que facilita la presentación de sus productos y servicios.
 - **Tecnologías utilizadas**: WordPress
 - **Link**: [s2moblesoficina.com](https://s2moblesoficina.com/)
 
-#### 2. Página Web de AIO (pendiente de publicación)
+### 2. Página Web de AIO (pendiente de publicación)
 - **Descripción**: Desarrollo de la página web de AIO, una empresa tecnológica en crecimiento. Esta página está siendo desarrollada con tecnologías modernas como React, Next.js y JavaScript, y será publicada utilizando AWS para asegurar un despliegue eficiente y escalable.
 - **Tecnologías utilizadas**: React, Next.js, JavaScript, AWS
 - **Estado**: Pendiente de publicación
