@@ -11,6 +11,7 @@ Soy un apasionado del desarrollo web con experiencia en JavaScript, Java y otras
 - 📚 Siempre aprendiendo y explorando nuevas tecnologías
 
 
+
 ## Proyectos Realizados
 
 ### 1. Página Web de SOM2 Mobles Oficina
@@ -24,6 +25,7 @@ Soy un apasionado del desarrollo web con experiencia en JavaScript, Java y otras
 - **Estado**: Pendiente de publicación
 
 
+
 ## Tecnologías
 
 Aquí tienes una lista de algunas de las tecnologías con las que trabajo:
@@ -32,6 +34,7 @@ Aquí tienes una lista de algunas de las tecnologías con las que trabajo:
 - Back-end: Node.js, Java
 - Base de datos: MySQL, Supabase
 - Herramientas de desarrollo: VS Code, IntelliJ IDEA, Git
+
 
 ## Contacto
 
