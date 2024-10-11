@@ -17,7 +17,7 @@ Aquí tienes una lista de algunas de las tecnologías con las que trabajo:
 
 - Front-end: HTML, CSS, JavaScript, React
 - Back-end: Node.js, Java
-- Base de datos: MySQL
+- Base de datos: MySQL, Supabase
 - Herramientas de desarrollo: VS Code, IntelliJ IDEA, Git
 
 ## Contacto
