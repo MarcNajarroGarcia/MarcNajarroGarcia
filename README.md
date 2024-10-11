@@ -23,8 +23,5 @@ Aquí tienes una lista de algunas de las tecnologías con las que trabajo:
 - LinkedIn: www.linkedin.com/in/marc-najarro-2a8468222
 - Correo electrónico: mnajarrogarcia@gmail.com
 
-## Estadísticas de GitHub
-
-[![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MarcNajarroGarcia&show_icons=true&theme=dark)](https://github.com/MarcNajarroGarcia/github-readme-stats)
 
 ¡Gracias por visitar mi perfil! 😄
