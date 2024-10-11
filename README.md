@@ -20,7 +20,7 @@ Aquí tienes una lista de algunas de las tecnologías con las que trabajo:
 
 ## Contacto
 
-- LinkedIn: [Marc Najarro](linkedin.com/in/marc-najarro-2a8468222)
+- LinkedIn: [Marc Najarro](www.linkedin.com/in/marc-najarro-2a8468222)
 - Correo electrónico: mnajarrogarcia@gmail.com
 
 ## Estadísticas de GitHub
